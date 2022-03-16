@@ -1,6 +1,6 @@
 # CovBot
 
-This is a discord bot that display updates about covid-19 cases in **Saudi Arabia**
+This is a discord bot that display updates about covid-19 cases
 
 ## How it works
 
